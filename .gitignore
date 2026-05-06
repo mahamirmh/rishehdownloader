@@ -1,0 +1,28 @@
+# Build outputs
+*/build/
+*/dist/
+*/release/
+*/.gradle/
+*/.idea/
+*/__pycache__/
+*/*.pyc
+*/*.spec
+
+# IDE
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Mobile
+*.ipa
+*.apk
+*.xcarchive/
+
+# Windows
+*.exe
+!installer/*.exe
